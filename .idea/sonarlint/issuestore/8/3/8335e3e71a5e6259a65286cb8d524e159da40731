@@ -1,0 +1,7 @@
+
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(»éª¡ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ
+Z
+java:S3358"DExtract this nested ternary operation into an independent statement.(íŒ²Ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ

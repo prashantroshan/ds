@@ -1,0 +1,20 @@
+
+Q
+java:S4973B"<Strings and Boxed types should be compared using "equals()".(—‘Ä
+V	java:S125"<This block of commented-out lines of code should be removed.(Ø¥Ã˜üÿÿÿÿ
+S
+java:S1854?"6Remove this useless assignment to local variable "t1".(÷Ûƒ„8¹€Å«Ï0
+Q
+java:S1612;";Replace this lambda with method reference 'TimeSheet::new'.(ôÌ”…
+D
+java:S1481?"'Remove this unused "t1" local variable.(÷Ûƒ„8»€Å«Ï0
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ÛÊ÷‡ûÿÿÿÿ
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(ÔÚ•òúÿÿÿÿ8çÁÅ«Ï0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¢®¼«Ï0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¢®¼«Ï0
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8¢®¼«Ï0
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8¢®¼«Ï0

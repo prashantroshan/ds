@@ -1,0 +1,32 @@
+
+v
+java:S4276	"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(èÊĞ®ÿÿÿÿÿ
+V
+java:S1612	";Replace this lambda with method reference 'String::length'.(èÊĞ®ÿÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(¾æ…ï
+q
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(¯à“şúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ñôâ‡ÿÿÿÿÿ
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ñıÀœøÿÿÿÿ
+c
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ñıÀœøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßÃ¯‰øÿÿÿÿ
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(´÷Ûşÿÿÿÿ
+c
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(´÷Ûşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øñ±·
+t
+java:S4276"YRefactor this code to use the more specialised Functional Interface 'IntFunction<String>'(Ä¶«®ÿÿÿÿÿ
+_
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ä¶«®ÿÿÿÿÿ
+_
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ä¶«®ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù‚Øúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õåÉ°úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß­ÅÃüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ø¨å
+M	java:S106"9Replace this use of System.out or System.err by a logger.(…ç©#
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Áğ‘®ıÿÿÿÿ8÷ÉÑ°Ï0

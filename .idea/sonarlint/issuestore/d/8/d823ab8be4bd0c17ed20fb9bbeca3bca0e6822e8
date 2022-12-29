@@ -1,5 +1,0 @@
-
-v
-java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(èÊÐ®ÿÿÿÿÿ
-V
-java:S1612";Replace this lambda with method reference 'String::length'.(èÊÐ®ÿÿÿÿÿ
